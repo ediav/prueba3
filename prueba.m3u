@@ -1,4 +1,6 @@
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="lat: TOONCAST" group="LAT" logo="https://www.telezumiko.com/img/tooncast.png" tvg-country="LAT", TOONCAST
+#EXTINF:0 type="estream" channelId="-1" name="lat: TOONCAST" group="INFANTILES" logo="https://www.telezumiko.com/img/tooncast.png" tvg-country="LAT", TOONCAST
 https://y9h02fsv25w8xaly.uzcdn828.net:8443/hls/d7zi3sak.m3u8?s=WS6PQsdIvr0fknHP7XUtGg&e=1622000987
 
+#EXTINF:0 type="estream" channelId="-1" name="lat: STARACTION" group="STAR" logo="" tvg-country="STAR", STARACTION
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/138_.m3u8?token=5CTxXpugu-iYg5e2HLJJlQ&expires=1621992164
